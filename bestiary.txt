@@ -1,0 +1,821 @@
+GOBLINS
+
+All Goblins
+
+4175: 5 Observe when Burning
+4176: 20 Stagger
+4177: 3 Inflict Blind
+
+Goblins, Hobgoblins and Grimgoblins
+
+4178: 5 Inflict Frozen
+4179: 10 Kill one with a shield
+4180: 10 Kill one with a horn
+
+All Goblins except Goblin Shamans
+
+4181: 10 Kill the leader / Goblin Strategies
+
+Goblins
+
+4160: 60 seconds
+4161: 150 seconds
+4162: 300 seconds and 30 kills
+4163: 300 seconds and 150 kills
+4164: 300 seconds and 500 kills
+
+Hobgoblins
+
+4165: 60 seconds
+4166: 150 seconds
+4167: 300 seconds and 20 kills / Hobgoblin Tactics
+4168: 300 seconds and 100 kills
+4169: 300 seconds and 300 kills
+
+Grimgoblins
+
+4170: 60 seconds
+4171: 150 seconds
+4172: 300 seconds and 20 kills
+4173: 300 seconds and 100 kills
+4174: 300 seconds and 300 kills
+4183: 5 Observe thrust attack
+
+Greater Goblins [1]
+
+4832: 60 seconds
+4833: 150 seconds
+4834: 300 seconds and 30 kills
+4835: 300 seconds and 150 kills
+4836: 300 seconds and 400 kills
+4842: 50 Damage with Lightning
+
+Goblin Shamans [1]
+
+4832: 60 seconds
+4833: 150 seconds
+4834: 300 seconds and 30 kills
+4835: 300 seconds and 150 kills
+4836: 300 seconds and 400 kills
+4843: 30 Damage with Physical
+
+
+WOLVES
+
+All Wolves
+
+4207: 2 Block lunge attack / Wolf Strategy Vol. 1
+4208: 5 Observe calling for help
+4210: 3 Inflict Torpor / Wolf Strategy Vol. 3
+4212: 5 Observe when Burning
+
+All Wolves except Hellhounds
+
+4209: 3 Inflict Drenched / Wolf Strategy Vol. 2
+
+All Wolves except Garm
+
+4211: 3 Inflict Silence
+
+Wolves
+
+4192: 60 seconds
+4193: 150 seconds
+4194: 300 seconds and 30 kills 
+4195: 300 seconds and 150 kills
+4196: 300 seconds and 500 kills
+
+Direwolves
+
+4197: 60 seconds
+4198: 210 seconds
+4199: 420 seconds and 30 kills
+4200: 420 seconds and 150 kills
+4201: 420 seconds and 500 kills
+
+Hellhounds
+
+4202: 60 seconds
+4203: 210 seconds
+4204: 420 seconds and 10 kills
+4205: 420 seconds and 50 kills
+4206: 420 seconds and 150 kills
+
+Wargs [2]
+
+4213: 60 seconds
+4214: 210 seconds
+4215: 420 seconds and 20 kills
+4216: 420 seconds and 100 kills
+4217: 420 seconds and 300 kills
+
+Garm [2]
+
+4218: 60 seconds
+4219: 210 seconds
+4220: 420 seconds and 20 kills
+4221: 420 seconds and 100 kills
+4222: 420 seconds and 300 kills
+4223: 50 Damage with Lightning
+
+
+SKELETONS
+
+All Skeletons
+
+4239: 50 Damage with Holy / Skeleton Strategies
+4240: 50 Damage with Blunt
+
+Skeletons
+
+4224: 60 seconds
+4225: 150 seconds
+4226: 420 seconds and 20 kills
+4227: 420 seconds and 100 kills
+4228: 420 seconds and 300 kills
+
+Skeleton Knights
+
+4229: 60 seconds
+4230: 210 seconds
+4231: 420 seconds and 20 kills / Skeleton Knight Tactics
+4232: 420 seconds and 100 kills
+4233: 420 seconds and 300 kills
+
+Skeleton Lords
+
+4234: 60 seconds
+4235: 240 seconds
+4236: 600 seconds and 4 kills
+4237: 600 seconds and 20 kills
+4238: 600 seconds and 50 kills
+
+Skeleton Brutes 
+
+4864: 60 seconds
+4865: 210 seconds
+4866: 420 seconds and 20 kills
+4867: 420 seconds and 100 kills
+4868: 420 seconds and 300 kills
+
+Skeleton Mages
+
+4384: 60 seconds
+4385: 150 seconds
+4386: 300 seconds and 8 kills
+4387: 300 seconds and 30 kills
+4388: 300 seconds and 100 kills
+
+Skeleton Sorcerers
+
+4389: 60 seconds
+4390: 210 seconds
+4391: 420 seconds and 5 kills
+4392: 420 seconds and 30 kills
+4393: 420 seconds and 100 kills
+
+Golden Knights
+
+4869: 60 seconds
+4870: 240 seconds
+4871: 600 seconds and 15 kills
+4872: 1200 seconds and 50 kills
+4873: 1200 seconds and 100 kills
+4884: 30 Obseve resurrection
+
+Silver Knights
+
+4874: 60 seconds
+4875: 240 seconds
+4876: 600 seconds and 15 kills
+4877: 1200 seconds and 50 kills
+4878: 1200 seconds and 100 kills
+
+Living Armor
+
+4879: 60 seconds
+4880: 240 seconds
+4881: 600 seconds and 10 kills
+4882: 1200 seconds and 25 kills
+4883: 1200 seconds and 50 kills
+4885: 30 Attck from behind
+4886: 30 Damage Armor
+4887: 30 Damage Ghost
+
+
+SAURIANS
+
+All Saurians
+
+4276: 5 Sever the tail / Saurian Strategy Vol. 1
+4903: 50 Attack while climbing
+
+All Saurians except Pyre Saurians
+
+4277: 50 Damage with Ice
+
+Saurians and Sulfur Saurians
+
+4279: 5 Observe when Burning
+
+Saurians
+
+4256: 60 seconds
+4257: 150 seconds
+4258: 300 seconds and 20 kills
+4259: 300 seconds and 100 kills
+4260: 300 seconds and 300 kills
+
+Sulfur Saurians
+
+4261: 60 seconds
+4262: 150 seconds
+4263: 300 seconds and 15 kills / Saurian Tactics Vol. 1
+4264: 300 seconds and 50 kills
+4265: 300 seconds and 150 kills
+
+Geo Saurians
+
+4266: 60 seconds
+4267: 210 seconds
+4268: 420 seconds and 15 kills / Saurian Tactics Vol. 2
+4269: 420 seconds and 50 kills
+4270: 420 seconds and 150 kills
+
+Saurian Sages
+
+4271: 60 seconds
+4272: 210 seconds
+4273: 420 seconds and 8 kills
+4274: 420 seconds and 30 kills
+4275: 420 seconds and 100 kills
+4280: 2 Inflict Silence / Saurian Strategy Vol. 2
+
+Pyre Saurians
+
+4896: 60 seconds
+4897: 210 seconds
+4898: 420 seconds and 20 kills
+4899: 420 seconds and 100 kills
+4900: 420 seconds and 300 kills
+4901: 5 Inflict Drenched
+4902: 10 Extinguish flame
+
+
+UNDEAD
+
+All Undead
+
+4310: 20 Hit the head
+
+All Undead except Eliminators
+
+4308: 50 Damage with Fire
+4309: 50 Damage with Holy / Undead Strategy Vol. 1
+
+All Undead except Poisoned Undead and Eliminators
+
+4311: 2 Grapple undead that grapple / Undead Strategy Vol. 2
+
+Undead
+
+4288: 60 seconds
+4289: 150 seconds
+4290: 300 seconds and 30 kills
+4291: 300 seconds and 150 kills
+4292: 300 seconds and 500 kills
+
+Stout Undead
+
+4293: 60 seconds
+4294: 150 seconds
+4295: 300 seconds and 15 kills / Undead Tactics Vol. 1
+4296: 300 seconds and 50 kills
+4297: 300 seconds and 150 kills
+
+Undead Warriors
+
+4298: 60 seconds
+4299: 150 seconds
+4300: 300 seconds and 30 kills
+4301: 300 seconds and 150 kills
+4302: 300 seconds and 500 kills
+
+Giant Undead
+
+4303: 60 seconds
+4304: 210 seconds
+4305: 420 seconds and 8 kills / Undead Tactics Vol. 2
+4306: 420 seconds and 30 kills
+4307: 420 seconds and 100 kills
+
+Poisoned Undead
+
+4928: 60 seconds
+4929: 210 seconds
+4930: 420 seconds and 20 kills
+4931: 420 seconds and 100 kills
+4932: 420 seconds and 300 kills
+
+Banshees
+
+4933: 60 seconds
+4934: 210 seconds
+4935: 420 seconds and 20 kills
+4936: 420 seconds and 100 kills
+4937: 420 seconds and 300 kills
+4943: 50 Damage with Ice
+4944: 30 Damage with Physical
+4946: 30 Damage Eliminator with Magick [3]
+
+Eliminators
+
+4938: 60 seconds
+4939: 210 seconds
+4940: 420 seconds and 15 kills
+4941: 420 seconds and 30 kills
+4942: 420 seconds and 60 kills
+4945: 10 Observe Banshee scream [3]
+4947: 5 Observe stomp attack
+
+
+SMALL FLYERS
+
+Harpies and Snow Harpies
+
+4340: 5 Burn to prevent flying / Harpy Strategies
+
+Harpies
+
+4320: 60 seconds
+4321: 150 seconds
+4322: 300 seconds and 20 kills
+4323: 300 seconds and 100 kills
+4324: 300 seconds and 300 kills
+
+Snow Harpies
+
+4325: 60 seconds
+4326: 150 seconds
+4327: 300 seconds and 20 kills
+4328: 300 seconds and 100 kills
+4329: 300 seconds and 300 kills
+4342: 50 Damage with Fire
+
+Succubi
+
+4330: 60 seconds
+4331: 150 seconds
+4332: 300 seconds and 10 kills
+4333: 300 seconds and 50 kills
+4334: 300 seconds and 150 kills
+4343: 50 Damage with Holy
+
+Gargoyles
+
+4335: 60 seconds
+4336: 150 seconds
+4337: 300 seconds and 4 kills
+4338: 300 seconds and 20 kills
+4339: 300 seconds and 50 kills
+4344: 50 Damage with Lightning
+
+Strigoi
+
+4960: 60 seconds
+4961: 150 seconds
+4962: 300 seconds and 15 kills
+4963: 300 seconds and 50 kills
+4964: 300 seconds and 100 kills
+4970: 50 Damage with Ice
+4972: 10 Observe tail turning red
+
+Sirens
+
+4965: 60 seconds
+4966: 150 seconds
+4967: 300 seconds and 15 kills
+4968: 300 seconds and 50 kills
+4969: 300 seconds and 100 kills
+4971: 50 Damage with Dark
+
+
+GHOSTS
+
+All Ghosts
+
+4367: 10 Damage with Holy
+
+Phantoms
+
+4352: 60 seconds
+4353: 150 seconds
+4354: 300 seconds and 4 kills / Ghost Tactics Vol. 2
+4355: 300 seconds and 20 kills
+4356: 300 seconds and 50 kills
+
+Phantasms
+
+4357: 60 seconds
+4358: 150 seconds
+4359: 300 seconds and 4 kills
+4360: 300 seconds and 20 kills
+4361: 300 seconds and 50 kills
+
+Specters
+
+4362: 60 seconds
+4363: 150 seconds
+4364: 300 seconds and 4 kills / Ghost Tactics Vol. 1
+4365: 300 seconds and 20 kills
+4366: 300 seconds and 50 kills
+
+Wraiths
+
+4370: 60 seconds
+4371: 150 seconds
+4372: 300 seconds and 4 kills
+4373: 300 seconds and 15 kills
+4374: 300 seconds and 30 kills
+
+
+OGRES
+
+All Ogres
+
+4421: 3 Make it guard its face
+4422: 5 ? / Ogre Strategy Vol. 1
+4423: 3 Knockdown by climing when it does an attack
+4424: 2 ? / Ogre Strategy Vol. 2
+
+Ogres
+
+4416: 60 seconds
+4417: 240 seconds
+4418: 600 seconds and 4 kills
+4419: 600 seconds and 20 kills
+4420: 600 seconds and 50 kills
+
+Elder Ogres
+
+4425: 60 seconds
+4426: 240 seconds
+4427: 600 seconds and 4 kills
+4428: 600 seconds and 20 kills
+4429: 600 seconds and 50 kills
+
+
+CYCLOPES
+
+All Cyclopes
+
+4453: 2 Climb leg to get it to lift its leg
+4454: 5 Knockdown ?
+4455: 3 Disarm / Cyclops Strategy Vol. 1
+4457: 5 Break tusks / Cyclops Strategy Vol. 2
+
+Cyclopes
+
+4448: 60 seconds
+4449: 240 seconds
+4450: 600 seconds and 3 kills / Cyclops Tactics
+4451: 600 seconds and 10 kills
+4452: 600 seconds and 30 kills
+4456: 5 Observe Thundershock
+
+Gorecyclopes
+
+4458: 60 seconds
+4459: 240 seconds
+4460: 600 seconds and 4 kills
+4461: 600 seconds and 20 kills
+4462: 600 seconds and 50 kills
+4463: 50 Damage with Ice
+
+
+GOLEMS
+
+4490: 50 Damage with Blunt
+4491: 3 ? / Golem Strategy Vol. 1
+4492: 2 Hit head when it uses beam / Golem Strategy Vol. 2
+
+Golems
+
+4480: 60 seconds
+4481: 240 seconds
+4482: 600 seconds and 2 kills / Golem Tactics
+4483: 600 seconds and 5 kills
+4484: 600 seconds and 15 kills
+
+Metal Golems
+
+4485: 60 seconds
+4486: 240 seconds
+4487: 600 seconds and 1 kill
+4488: 600 seconds and 3 kills
+4489: 600 seconds and 7 kills
+
+
+CHIMERAS
+
+All Chimeras
+
+4522: 2 Kill the snake head / Chimera Strategy Vol. 1
+4523: 50 Damage lion with Magick
+4524: 50 Damage goat with Physical
+4525: 3 Inflict Silence / Chimera Strategy Vol. 2
+
+Chimeras
+
+4512: 60 seconds
+4513: 240 seconds
+4514: 600 seconds and 3 kills / Chimera Tactics
+4515: 600 seconds and 10 kills
+4516: 600 seconds and 30 kills
+
+Gorechimeras
+
+4517: 60 seconds
+4518: 240 seconds
+4519: 600 seconds and 3 kills
+4520: 600 seconds and 10 kills
+4521: 600 seconds and 30 kills
+4526: 5 Burn cut snake head
+
+
+HYDRAS
+
+All Hydras
+
+4554: 3 Sever a head / Hydra Strategy Vol. 1
+4555: 50 Damage with Fire
+4556: 3 Burn a cut head stump / Hydra Strategy Vol. 2
+4557: 2 Barrel trick?
+
+Hydras
+
+4544: 60 seconds
+4545: 240 seconds
+4546: 600 seconds and 1 kill / Hydra Tactics
+4547: 600 seconds and 3 kills
+4548: 600 seconds and 7 kills
+
+Archydras
+
+4549: 60 seconds
+4550: 240 seconds
+4551: 600 seconds and 1 kill
+4552: 600 seconds and 3 kills
+4553: 600 seconds and 7 kills
+
+
+GIANT FLYERS
+
+Griffins and Cockatrices
+
+4587: 30 Hit the head
+4589: 2 Block beak attack / Griffin Strategy Vol. 3
+
+Griffins
+
+4576: 60 seconds
+4577: 240 seconds
+4578: 600 seconds and 2 kills
+4579: 600 seconds and 5 kills
+4580: 600 seconds and 15 kills
+4586: 3 ?
+4588: 3 Observe flailing when grappled / Griffin Strategy Vol. 1
+4590: 2 ?
+4591: 2 Lure down with a carcass / Griffin Strategy Vol. 2
+
+Cockatrices
+
+4581: 60 seconds
+4582: 240 seconds
+4583: 600 seconds and 2 kills
+4584: 600 seconds and 5 kills
+4585: 600 seconds and 15 kills
+4592: 50 Damage with Lightning
+4593: 2 Observe when Blind / Cockatrice Strategy Vol. 1
+4594: 3 Interrupt by attacking throat / Cockatrice Strategy Vol. 2
+
+
+EYES
+
+All Eyes
+
+4618: 50 Damage with Holy
+4621: 3 Knockdown ?
+
+Evil Eyes
+
+4608: 60 seconds
+4609: 240 seconds
+4610: 600 seconds and 2 kills
+4611: 600 seconds and 5 kills
+4612: 600 seconds and 15 kills
+4619: 3 ? / Evil Eye Strategy Vol. 1
+4620: 3 Hit when it's charging / Evil Eye Strategy Vol. 2
+
+Vile Eyes
+
+4613: 60 seconds
+4614: 240 seconds
+4615: 600 seconds and 3 kills
+4616: 600 seconds and 10 kills
+4617: 600 seconds and 30 kills
+
+Gazers
+
+4624: 60 seconds
+4625: 240 seconds
+4626: 600 seconds and 2 kills
+4627: 600 seconds and 5 kills
+4628: 600 seconds and 15 kills
+4634: 50 Hit eye directly
+4635: 5 Observe poisoned cloud
+4636: 1 Stun with Spire Tentacle
+4637: 1 Destroy Great Cannon tentacles
+
+
+UNDEAD SPELLCASTERS
+
+All Undead Spellcasters
+
+4683: 50 Damage with Blunt
+
+Wights and Liches
+
+4682: 50 Damage with Holy
+
+Wights
+
+4672: 60 seconds
+4673: 240 seconds
+4674: 600 seconds and 3 kills / Wight Tactics
+4675: 600 seconds and 10 kills
+4676: 600 seconds and 30 kills
+
+Liches
+
+4677: 60 seconds
+4678: 240 seconds
+4679: 600 seconds and 2 kills / Lich Tactics
+4680: 600 seconds and 5 kills
+4681: 600 seconds and 15 kills
+
+Dark Bishop
+
+4684: 60 seconds
+4685: 240 seconds
+4686: 600 seconds and 3 kills
+4687: 600 seconds and 10 kills
+4688: 600 seconds and 30 kills
+4694: 50 Damage with Holy [4]
+
+
+DRAGONS
+
+All Dragons
+
+4714: 3 Knockdown by hitting heart
+4716: 10 Stagger / Draconian Strategy Vol. 1
+4717: 3 Knockdown while it's casting
+4718: 3 Hit head to stop breath attack / Draconian Strategy Vol. 2
+
+The Dragon
+
+4704: 60 seconds
+4705: 180 seconds
+4706: 600 seconds and 1 kill
+4707: 600 seconds and 2 kills
+4708: 600 seconds and 3 kills
+4715: 50 Damage with Dark
+
+The Ur-Dragon
+
+4709: 60 seconds
+4710: 240 seconds
+4711: 600 seconds and 1 kill
+4712: 600 seconds and 2 kills
+4713: 600 seconds and 3 kills
+4719: 50 Damage with Holy
+
+Drakes
+
+4736: 60 seconds
+4737: 240 seconds
+4738: 600 seconds and 2 kills
+4739: 600 seconds and 5 kills
+4740: 600 seconds and 15 kills
+4720: 50 Damage with Ice
+
+Wyrms
+
+4741: 60 seconds
+4742: 240 seconds
+4743: 600 seconds and 2 kills
+4744: 600 seconds and 5 kills
+4745: 600 seconds and 15 kills
+4721: 50 Damage with Fire
+
+Wyverns
+
+4746: 60 seconds
+4747: 240 seconds
+4748: 600 seconds and 2 kills
+4749: 600 seconds and 5 kills
+4750: 600 seconds and 15 kills
+
+Cursed Dragons
+
+4751: 60 seconds
+4752: 240 seconds
+4753: 600 seconds and 2 kills
+4754: 600 seconds and 5 kills
+4755: 600 seconds and 15 kills
+4756: 10 Observe the Dark Bishop revive it
+4757: 10 Observe the Dark Bishop possess it
+4758: 20 Observe items rotting
+4759: 50 Damage with Holy
+
+
+OTHERS
+
+Maneaters
+
+4629: 60 seconds
+4630: 240 seconds
+4631: 600 seconds and 3 kills
+4632: 600 seconds and 10 kills
+4633: 600 seconds and 30 kills
+4638: 10 Get bonus loot
+4639: 1 Open Maneater chest
+
+The Seneschal
+
+4640: 60 seconds
+4641: 240 seconds
+4642: 600 seconds and 1 kill
+4643: 600 seconds and 2 kills
+4644: 600 seconds and 3 kills
+
+Death
+
+4689: 60 seconds
+4690: 240 seconds
+4691: 600 seconds and 1 kill
+4692: 600 seconds and 3 kills
+4693: 600 seconds and 6 kills
+4695: 1 Observe scythe attack
+4696: 2 Observe it fleeing
+
+Daimon
+
+4992: 60 seconds
+4993: 240 seconds
+4994: 600 seconds and 1 kill
+4995: 600 seconds and 3 kills
+4996: 600 seconds and 10 kills
+4997: 10 Hit first form head
+4998: 20 Damage with Holy
+4999: 30 Hit second form head
+5000: 1 Observe vortex
+
+Hostile Soldiers
+
+4768: 60 seconds
+4769: 150 seconds
+4770: 300 seconds and 10 kills
+4771: 300 seconds and 50 kills
+4772: 300 seconds and 150 kills
+
+Hostile Bandits
+
+4773: 60 seconds
+4774: 150 seconds
+4775: 300 seconds and 30 kills
+4776: 300 seconds and 150 kills
+4777: 300 seconds and 500 kills
+
+Enemy Wizard
+
+4778: 60 seconds
+4779: 150 seconds
+4780: 300 seconds and 10 kills
+4781: 300 seconds and 50 kills
+4782: 300 seconds and 150 kills
+
+Enemy Person
+
+4800: 60 seconds
+4801: 150 seconds
+4802: 300 seconds and 10 kills
+4803: 300 seconds and 50 kills
+4804: 300 seconds and 150 kills
+
+
+[1] Greater Goblins and Goblin Shamans share time in combat and kill count
+[2] Wargs and Garm share time in combat and kill count
+[3] Flags 4945 and 4946 got swapped somewhere
+[4] This should have been Dark but it's not
