@@ -496,7 +496,7 @@ Gorecyclopes
 GOLEMS
 
 4490: 50 Damage with Blunt
-4491: 3 ? / Golem Strategy Vol. 1
+4491: 3 Attack with Magick to make medal glow / Golem Strategy Vol. 1
 4492: 2 Hit head when it uses beam / Golem Strategy Vol. 2
 
 Golems
@@ -550,7 +550,7 @@ All Hydras
 4554: 3 Sever a head / Hydra Strategy Vol. 1
 4555: 50 Damage with Fire
 4556: 3 Burn a cut head stump / Hydra Strategy Vol. 2
-4557: 2 Barrel trick?
+4557: 2 Barrel trick
 
 Hydras
 
@@ -583,9 +583,9 @@ Griffins
 4578: 600 seconds and 2 kills
 4579: 600 seconds and 5 kills
 4580: 600 seconds and 15 kills
-4586: 3 ?
+4586: 3 Shoot it down
 4588: 3 Observe flailing when grappled / Griffin Strategy Vol. 1
-4590: 2 ?
+4590: 2 Have 3 or more climb?
 4591: 2 Lure down with a carcass / Griffin Strategy Vol. 2
 
 Cockatrices
@@ -614,7 +614,7 @@ Evil Eyes
 4610: 600 seconds and 2 kills
 4611: 600 seconds and 5 kills
 4612: 600 seconds and 15 kills
-4619: 3 ? / Evil Eye Strategy Vol. 1
+4619: 3 Use magick to make it lower its shield / Evil Eye Strategy Vol. 1
 4620: 3 Hit when it's charging / Evil Eye Strategy Vol. 2
 
 Vile Eyes
