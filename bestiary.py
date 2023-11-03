@@ -88,8 +88,8 @@ counts = {
  4164: [ 300, 500, '' ],
  4165: [ 60, 0, '' ],
  4166: [ 150, 0, '' ],
- 4167: [ 300, 20, '' ],
- 4168: [ 300, 100, ' / Hobgoblin Tactics' ],
+ 4167: [ 300, 20, ' / Hobgoblin Tactics' ],
+ 4168: [ 300, 100, '' ],
  4169: [ 300, 300, '' ],
  4170: [ 60, 0, '' ],
  4171: [ 150, 0, '' ],
@@ -573,7 +573,7 @@ for arg in sys.argv[1:]:
 	obj = tree.find('.//array[@name="mStudyFlag"]')
 	cnt = tree.find('.//array[@name="mStudyData.KillCnt"]')
 	uni = tree.find('.//array[@name="mStudyData.UniqueCnt"]')
-	sec = tree.find('.//array[@name="mStudyData.EncountFrame"]')
+	frm = tree.find('.//array[@name="mStudyData.EncountFrame"]')
 	flags = { }
 	n = 130 * 32
 
@@ -587,7 +587,7 @@ for arg in sys.argv[1:]:
 
 	for l in em_flags:
 		print(l[0])
-		s = int(float(sec[l[1]].get('value')) / 30.0);
+		s = int(float(frm[l[1]].get('value')) / 30.0);
 		k = cnt[l[1]].get('value')
 		for f in l[2]:
 			if flags[f] == 0:
